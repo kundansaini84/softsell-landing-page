@@ -35,4 +35,5 @@ A sleek, responsive marketing website for a fictional software license resale st
 Want to connect? Feel free to message me on LinkedIn https://www.linkedin.com/in/kundan--saini--?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app or fork the project to contribute!
 
 ##©
+
 2025 SoftSell – Created for the Credex Web Dev Internship Assignment.
